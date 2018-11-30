@@ -1,2 +1,3 @@
 # random-quote-machine
-Random Quote Machine - Dead Parrot Quotes
+# Random Quote Machine
+# Dead Parrot Quotes
